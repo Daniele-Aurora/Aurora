@@ -1,34 +1,44 @@
-AURORA — LE 14 LEGGI
-Versione 5 — grafica coordinata con la pagina Facebook
-Copia del sito pubblicato, esportata il 25 ottobre 2026.
+AURORA — BACKUP COMPLETO DEL SITO
+Versione 5, grafica coordinata con la pagina Facebook.
+Backup del 25 ottobre 2026, preparato prima della cancellazione del sito
+ospitato su ChatGPT richiesta da Daniele Scapin.
 
-Il pacchetto contiene tutti i file del sito: pagina principale, lettore
-interattivo delle 14 leggi, approfondimenti, pagina Aurora Scout,
-versione leggibile delle leggi e immagini originali utilizzate.
+CONTENUTO
+Pagina principale, 14 leggi con testi e approfondimenti, lettore interattivo,
+pagina Aurora Scout, pagina delle leggi leggibile senza JavaScript,
+stili e tutte le immagini utilizzate dal sito.
+I file web sono identici alla versione 5 del sito.
+CHECKSUMS.sha256 elenca l'impronta SHA-256 di ogni file web del backup.
 
-Sito attuale:
-https://aurora-quattordici-leggi.tucano71it.chatgpt.site
+CONSERVARE SUL PC
+Scarica questo ZIP e salvalo in una cartella del computer.
+Per lavorare sul sito, fai clic destro sullo ZIP e scegli Estrai tutto.
+Conserva anche una copia dello ZIP originale come backup.
 
 PUBBLICAZIONE SU UN ALTRO HOSTING
-Estrai lo ZIP e carica tutti i file e la cartella assets nella cartella
-pubblica del tuo hosting statico. index.html deve trovarsi nella radice.
-Mantieni i nomi e la struttura delle cartelle. Non serve una compilazione,
-un database o un abbonamento ChatGPT per eseguire questi file su un altro
-hosting statico. La disponibilità e le condizioni del nuovo hosting
-dipendono dal fornitore scelto.
+Carica tutti i file web e la cartella assets nella cartella pubblica del tuo
+hosting statico. index.html deve trovarsi nella radice. Mantieni i nomi e
+la struttura delle cartelle. LEGGIMI.txt e CHECKSUMS.sha256 sono documenti
+di accompagnamento e non sono necessari per pubblicare il sito.
+Non occorrono compilazione, database o abbonamento ChatGPT per eseguire
+questi file su un altro hosting statico.
 
-ANTEPRIMA SUL COMPUTER
-Il lettore interattivo carica laws.json e richiede un server HTTP.
-Se Python 3 è installato, apri un terminale nella cartella estratta,
-esegui il comando:
+ANTEPRIMA SU WINDOWS
+Il lettore interattivo carica laws.json e richiede un server HTTP locale.
+Se hai Python 3, apri un terminale nella cartella estratta ed esegui:
 
-python3 -m http.server 8000
+py -m http.server 8000
 
-Poi apri nel browser:
+Poi visita nel browser:
 http://localhost:8000
 
-Per chiudere il server premi Ctrl+C nel terminale.
-Con il semplice doppio clic su index.html il browser potrebbe bloccare
-il caricamento delle leggi. leggi.html contiene comunque tutti i testi.
+Se il comando py non è disponibile ma Python è installato, prova:
+python -m http.server 8000
 
-I collegamenti Amazon e Facebook richiedono una connessione Internet.
+Premi Ctrl+C nel terminale per fermare il server.
+Con il semplice doppio clic su index.html il browser può bloccare il
+caricamento delle leggi. leggi.html contiene comunque tutti i testi.
+
+I collegamenti Amazon e Facebook richiedono Internet.
+La cancellazione del sito ChatGPT non modifica copie pubblicate su altri
+hosting, né cancella i documenti e i backup separati.
