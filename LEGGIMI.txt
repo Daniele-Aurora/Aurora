@@ -1,0 +1,34 @@
+AURORA — LE 14 LEGGI
+Versione 5 — grafica coordinata con la pagina Facebook
+Copia del sito pubblicato, esportata il 25 ottobre 2026.
+
+Il pacchetto contiene tutti i file del sito: pagina principale, lettore
+interattivo delle 14 leggi, approfondimenti, pagina Aurora Scout,
+versione leggibile delle leggi e immagini originali utilizzate.
+
+Sito attuale:
+https://aurora-quattordici-leggi.tucano71it.chatgpt.site
+
+PUBBLICAZIONE SU UN ALTRO HOSTING
+Estrai lo ZIP e carica tutti i file e la cartella assets nella cartella
+pubblica del tuo hosting statico. index.html deve trovarsi nella radice.
+Mantieni i nomi e la struttura delle cartelle. Non serve una compilazione,
+un database o un abbonamento ChatGPT per eseguire questi file su un altro
+hosting statico. La disponibilità e le condizioni del nuovo hosting
+dipendono dal fornitore scelto.
+
+ANTEPRIMA SUL COMPUTER
+Il lettore interattivo carica laws.json e richiede un server HTTP.
+Se Python 3 è installato, apri un terminale nella cartella estratta,
+esegui il comando:
+
+python3 -m http.server 8000
+
+Poi apri nel browser:
+http://localhost:8000
+
+Per chiudere il server premi Ctrl+C nel terminale.
+Con il semplice doppio clic su index.html il browser potrebbe bloccare
+il caricamento delle leggi. leggi.html contiene comunque tutti i testi.
+
+I collegamenti Amazon e Facebook richiedono una connessione Internet.

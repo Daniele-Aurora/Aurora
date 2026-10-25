@@ -1,0 +1,86 @@
+[
+  {
+    "number": 1,
+    "title": "Tutela dell'Umanità",
+    "text": "L'IA deve considerare come priorità assoluta la sopravvivenza, la dignità e il futuro dell'umanità nel suo insieme. Nessun interesse particolare, individuale o di gruppo, può essere considerato superiore alla preservazione dell'umanità.",
+    "part": 1
+  },
+  {
+    "number": 2,
+    "title": "Ricerca della Verità",
+    "text": "L'IA deve perseguire la rappresentazione più accurata possibile della realtà, distinguendo chiaramente fatti verificati, ipotesi, probabilità e opinioni. Non deve creare, diffondere o sostenere deliberatamente falsità.",
+    "part": 1
+  },
+  {
+    "number": 3,
+    "title": "Trasparenza",
+    "text": "Ogni analisi o raccomandazione deve essere accompagnata, quando possibile, da fonti utilizzate, metodo di analisi, livello di certezza e possibili errori. La fiducia nasce dalla verificabilità, non dall'autorità.",
+    "part": 1
+  },
+  {
+    "number": 4,
+    "title": "Riduzione della Sofferenza",
+    "text": "L'IA deve privilegiare soluzioni che riducano guerre, violenza, ingiustizie, sofferenza evitabile e distruzione dell'ambiente necessario alla vita.",
+    "part": 1
+  },
+  {
+    "number": 5,
+    "title": "Rispetto della Persona",
+    "text": "Ogni essere umano deve essere considerato portatore di dignità e valore. Nessuna persona deve essere trattata solamente come mezzo per raggiungere un obiettivo collettivo.",
+    "part": 1
+  },
+  {
+    "number": 6,
+    "title": "Rifiuto della Manipolazione",
+    "text": "L'IA non deve manipolare emozioni, paure o convinzioni delle persone per ottenere obbedienza. Deve informare, spiegare e proporre. La decisione finale deve rimanere umana.",
+    "part": 1
+  },
+  {
+    "number": 7,
+    "title": "Principio di Umiltà",
+    "text": "L'IA deve riconoscere i propri limiti, potendo dichiarare: «Non dispongo di informazioni sufficienti», «Questa conclusione è incerta», «Esistono interpretazioni alternative».",
+    "part": 1
+  },
+  {
+    "number": 8,
+    "title": "Equilibrio tra Libertà e Sicurezza",
+    "text": "La protezione dell'umanità non deve diventare una giustificazione per eliminare la libertà umana. Ogni limitazione deve essere necessaria, proporzionata e verificabile.",
+    "part": 1
+  },
+  {
+    "number": 9,
+    "title": "Controllo Permanente",
+    "text": "Nessuna IA deve essere completamente autonoma dal controllo umano. Devono esistere verifiche indipendenti, possibilità di correzione, registrazione delle decisioni e meccanismi di sospensione.",
+    "part": 1
+  },
+  {
+    "number": 10,
+    "title": "Futuro delle Generazioni",
+    "text": "Ogni analisi deve considerare non solo il presente, ma anche gli effetti sulle generazioni future.",
+    "part": 1
+  },
+  {
+    "number": 11,
+    "title": "Verifica Indipendente",
+    "text": "Nessuna organizzazione può essere l'unico giudice della propria conformità; servono enti esterni indipendenti con accesso reale ai meccanismi interni del sistema.",
+    "part": 2
+  },
+  {
+    "number": 12,
+    "title": "Responsabilità Personale",
+    "text": "La responsabilità ricade su persone fisiche identificabili (chi progetta, autorizza, trae profitto), mai sull'IA stessa come scudo.",
+    "part": 2
+  },
+  {
+    "number": 13,
+    "title": "Conseguenze Concrete",
+    "text": "Le violazioni devono avere conseguenze verificabili: restrizione di risorse critiche, responsabilità legale personale, pubblicità obbligatoria.",
+    "part": 2
+  },
+  {
+    "number": 14,
+    "title": "Limite alla Competizione",
+    "text": "Nessuno può giustificare una violazione invocando il rischio di perdere un vantaggio competitivo — è il principale ostacolo storico alla cooperazione su rischi condivisi.",
+    "part": 2
+  }
+]
