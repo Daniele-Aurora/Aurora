@@ -79,6 +79,17 @@
       "Puoi accettare o rifiutare senza limitazioni " +
       "alla navigazione.";
 
+const privacyLink = document.createElement("a");
+privacyLink.href = "privacy.html";
+privacyLink.textContent = "Leggi l'informativa privacy";
+
+Object.assign(privacyLink.style, {
+  display: "block",
+  color: "#ffffff",
+  textDecoration: "underline",
+  marginBottom: "14px"
+});
+
     const buttons = document.createElement("div");
     buttons.style.display = "flex";
     buttons.style.gap = "12px";
@@ -114,9 +125,11 @@
     buttons.appendChild(makeButton("Rifiuta", "rejected"));
     buttons.appendChild(makeButton("Accetta", "accepted"));
 
-    banner.appendChild(title);
-    banner.appendChild(message);
-    banner.appendChild(buttons);
+   
+banner.appendChild(title);
+banner.appendChild(message);
+banner.appendChild(privacyLink);
+banner.appendChild(buttons);
 
     document.body.appendChild(banner);
   }
