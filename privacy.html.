@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <title>Privacy | Aurora</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="analytics.js" defer></script>
+  <style>
+    .privacy-content {
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 28px;
+      line-height: 1.7;
+    }
+    .privacy-content h1,
+    .privacy-content h2 {
+      margin-top: 28px;
+    }
+    .privacy-content a {
+      overflow-wrap: anywhere;
+    }
+  </style>
+</head>
+<body>
+  <main class="privacy-content">
+    <h1>Informativa sulla privacy</h1>
+    <p>
+      Aurora è un progetto dedicato
+      all'intelligenza artificiale etica.
+      Questa pagina descrive il trattamento
+      dei dati personali dei visitatori.
+    </p>
+
+    <h2>1. Titolare del trattamento</h2>
+    <p>
+      Daniele Scapin<br>
+      Email:
+      <a href="mailto:scapind7@gmail.com">
+        scapind7@gmail.com
+      </a>
+    </p>
+
+    <h2>2. Statistiche del sito</h2>
+    <p>
+      Il sito utilizza Google Analytics 4,
+      un servizio di analisi del traffico
+      web fornito da Google.
+    </p>
+    <p>
+      Se il visitatore presta il consenso,
+      Google Analytics può raccogliere
+      informazioni sulle pagine visitate,
+      sulle interazioni, sul dispositivo,
+      sul browser e sulla provenienza
+      geografica approssimativa.
+    </p>
+
+    <h2>3. Base giuridica</h2>
+    <p>
+      Il trattamento per finalità
+      statistiche tramite Google Analytics
+      si basa sul consenso del visitatore,
+      ai sensi dell'articolo 6, paragrafo
+      1, lettera a, del GDPR.
+    </p>
+
+    <h2>4. Consenso e revoca</h2>
+    <p>
+      Il visitatore può accettare o
+      rifiutare le statistiche.
+      Il rifiuto non impedisce
+      la navigazione sul sito.
+    </p>
+    <p>
+      È possibile modificare la scelta
+      utilizzando il pulsante
+      "Preferenze privacy".
+      La revoca impedisce il successivo
+      caricamento di Analytics dopo
+      l'aggiornamento della pagina.
+    </p>
+
+    <h2>5. Memorizzazione della scelta</h2>
+    <p>
+      Aurora utilizza la memoria locale
+      del browser per conservare
+      la preferenza relativa al consenso.
+    </p>
+
+    <h2>6. Destinatari dei dati</h2>
+    <p>
+      I dati statistici possono essere
+      trattati da Google nell'ambito
+      del servizio Google Analytics.
+      Per maggiori informazioni:
+      <a href="https://policies.google.com/privacy">
+        Informativa privacy di Google
+      </a>.
+    </p>
+
+    <h2>7. Diritti degli interessati</h2>
+    <p>
+      Nei casi previsti dal GDPR,
+      gli interessati possono richiedere
+      accesso, rettifica, cancellazione,
+      limitazione del trattamento
+      e opporsi ai trattamenti applicabili.
+      Possono inoltre revocare il consenso
+      e proporre reclamo al Garante
+      per la protezione dei dati personali.
+    </p>
+
+    <h2>8. Contatti</h2>
+    <p>
+      Per richieste relative alla privacy:
+      <a href="mailto:scapind7@gmail.com">
+        scapind7@gmail.com
+      </a>
+    </p>
+
+    <p>
+      <a href="index.html">
+        Torna alla pagina principale di Aurora
+      </a>
+    </p>
+  </main>
+</body>
+</html>
